@@ -1,3 +1,4 @@
+https://github.com/user-attachments/assets/de168ff8-a085-4aa2-8f89-141c439053c3
 ============================================================
    SNAKE GAME — C++ with OOP & Data Structures
    Version 1.0  |  Academic Project
